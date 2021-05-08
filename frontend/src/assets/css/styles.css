@@ -30,6 +30,9 @@ html, body {
 .text-primary {
     color: var(--color-primary) !important;
 }
+.jumbotron{
+    background: #fff !important; 
+}
 th{
     transition-duration: 0.7s;
     transition-property: all;
